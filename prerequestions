@@ -24,5 +24,7 @@ sudo wget -O /usr/share/keyrings/jenkins-keyring.asc \
   sudo apt-get install jenkins
 
   -------------
-  validate with public IP:8080 
+jenkins --version
+
+validate with public IP:8080 
 
